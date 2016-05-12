@@ -1,7 +1,7 @@
 # Predict_Income
 Predict a person's income using Sklearn tool and object oriented programming technique in Python
 
-Assumptions:
+Assumptions: \n
 Training dataset: Adult Data Set available from UCI https://archive.ics.uci.edu/ml/datasets/Adult
 Testing dataset: adult.test.txt also available from UCI
 Binary classification for outcome: the person either makes <=50K or >50K annually
