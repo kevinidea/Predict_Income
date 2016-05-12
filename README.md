@@ -27,7 +27,7 @@ Running this program is simple as 1,2,3:
 
 2. Make sure you have Python 2, Numpy, Pandas and Sklearn modules
 
-3. Run the main.py script
+3. Run the Main.py script (browse to the project directory and run command python Main.py)
 
 
 
